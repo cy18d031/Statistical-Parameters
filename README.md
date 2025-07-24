@@ -4,12 +4,13 @@
 This repository contains Python programs that compute various statistical measures describing enzyme turnover reactions using two equivalent stochastic descriptions:
 
 - **Count Process**: Tracks the number of product molecules formed up to time `t` → denoted by `n(t)`
-- **Point Process**: Tracks the times of individual turnover events → denoted by `$𝜏₁, 𝜏₂, ..., 𝜏ₚ$`
+- **Point Process**: Tracks the times of individual turnover events → denoted by `𝜏₁, 𝜏₂, ..., 𝜏ₚ`
 
 The figure below illustrates the correspondence between these two representations:
 
-![Count and Point Process Illustration](./count_and_point.png)
-
+![Count and Point Process Illustration]<p align="center">
+  <img src="figures/count_vs_point.png" alt="Count and Point Process Illustration" width="400">
+</p>
 ---
 
 ## Repository Contents
