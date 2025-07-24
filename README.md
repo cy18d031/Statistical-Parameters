@@ -8,10 +8,8 @@ This repository contains Python programs that compute various statistical measur
 
 The figure below illustrates the correspondence between these two representations:
 
-![Count and Point Process Illustration]<p align="center">
-  <img src="figures/count_vs_point.png" alt="Count and Point Process Illustration" width="400">
-</p>
----
+![Count and Point Process Illustration]!(./figures/count_vs_point1.png)
+
 
 ## Repository Contents
 
